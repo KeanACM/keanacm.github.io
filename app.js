@@ -17,7 +17,8 @@ App.config(function($locationProvider, $stateProvider, $urlRouterProvider) {
     .state('/resources', {
         url: '/resources',
         templateUrl: 'resources/index.html'
-    })
+    });
+    
     $locationProvider.html5Mode(true);
         
 });
