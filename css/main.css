@@ -92,7 +92,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 @media screen and (max-width: 600px) { .footer-col { float: none; width: -webkit-calc(100% - (30px / 2)); width: calc(100% - (30px / 2)); } }
 /** Page content */
 .page-content { padding: 30px 0; }
-.page-content h1, .page-content h2, .page-content h3, .page-content h4, .page-content h5, .page-content h6 { font-family: Inconsolata; }
+.page-content h1, .page-content h2, .page-content h3, .page-content h4, .page-content h5, .page-content h6 { font-family: 'Sedgwick Ave Display', cursive; }
 
 .page-heading { font-size: 20px; }
 
@@ -183,25 +183,25 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .page-content { margin: 0 0 0 360px; padding: 60px 180px 60px 120px; }
 .page-content section { margin-bottom: 60px; }
 .page-content section.info { text-align: center; }
-.page-content h1 { text-align: center; font: 27px/1 Inconsolata; font-weight: bold; margin-bottom: 40px; }
+.page-content h1 { text-align: center; font: 27px/1 'Sedgwick Ave Display', cursive; font-weight: bold; margin-bottom: 40px; }
 .page-content a { color: #cc0000; }
 .page-content a:hover { text-decoration: underline; }
 .page-content p { font-size: 18px; line-height: 1.8em; margin-bottom: 20px; }
 .page-content .event { margin-bottom: 60px; }
-.page-content .event .headline span:first-child { font: 27px/1 Inconsolata; font-weight: bold; }
+.page-content .event .headline span:first-child { font: 27px/1 'Sedgwick Ave Display', cursive; font-weight: bold; }
 .page-content .event .headline span:first-child:after { content: "\00a0"; }
-.page-content .event .headline span:nth-child(2) { font: 27px/1 Inconsolata; color: #828282; }
+.page-content .event .headline span:nth-child(2) { font: 27px/1 'Sedgwick Ave Display', cursive; color: #828282; }
 .page-content .event .headline span:nth-child(2):before { content: "("; }
 .page-content .event .headline span:nth-child(2):after { content: ")"; }
-.page-content .event .headline p { font: 20px/1.2 Inconsolata; margin: 10px 0; }
-.page-content .event .meta { margin-bottom: 15px; color: #828282; font-family: Inconsolata; }
+.page-content .event .headline p { font: 20px/1.2 'Sedgwick Ave Display', cursive; margin: 10px 0; }
+.page-content .event .meta { margin-bottom: 15px; color: #828282; font-family: 'Sedgwick Ave Display', cursive; }
 .page-content .event .meta .date, .page-content .event .meta .time, .page-content .event .meta .loc, .page-content .event .meta .rsvp { margin: 0 15px 0 0; display: inline-block; }
 .page-content .event .meta .rsvp a { text-decoration: underline; color: #828282; }
 .page-content .event .meta .rsvp a:hover { text-decoration: none; }
 .page-content .current { border-left: 5px solid #cc0000; padding-left: 20px; margin-left: -20px; }
 
 /** Sidebar */
-.sidebar-left { position: fixed; top: 0; left: 0; background-color: #113B51; width: 360px; height: 100%; padding: 80px 0; font-family: Inconsolata; }
+.sidebar-left { position: fixed; top: 0; left: 0; background-color: #113B51; width: 360px; height: 100%; padding: 80px 0; font-family: 'Sedgwick Ave Display', cursive; }
 
 .sidebar-left .logo { text-align: center; }
 
@@ -216,7 +216,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 /** Making the sidebar responsive */
 @media (max-width: 1200px) { .page-content { padding: 60px 120px 60px 80px; } }
 @media (max-width: 900px) { .page-content { padding: 40px 80px 40px 80px; max-width: none; margin: 0; }
-  .page-content h1 { text-align: center; font: 27px/1 Inconsolata; font-weight: bold; margin-bottom: 20px; }
+  .page-content h1 { text-align: center; font: 27px/1 'Sedgwick Ave Display', cursive; font-weight: bold; margin-bottom: 20px; }
   .sidebar-left { width: auto; height: auto; position: inherit; padding: 40px 0; }
   .sidebar-left .links { text-align: center; }
   .sidebar-left .links a { display: inline-block; margin: 0 15px; } }
@@ -225,6 +225,6 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
   .sidebar-left { padding: 40px 0; } }
 .page-content .officers { text-align: center; }
 .page-content .initiatives p { font-size: 16px; }
-.page-content .officer { display: inline-block; height: 60px; width: 155px; text-align: center; padding: 10px; font-family: Inconsolata; }
+.page-content .officer { display: inline-block; height: 60px; width: 155px; text-align: center; padding: 10px; font-family: 'Sedgwick Ave Display', cursive; }
 .page-content .officer p { margin: 0; font-size: 16px; line-height: 1.5em; }
 .page-content .officer p:first-child { font-weight: bold; }
