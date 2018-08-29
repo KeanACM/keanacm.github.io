@@ -205,12 +205,12 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .sidebar-left .logo { text-align: center; }
 
-.sidebar-left .title { text-align: center; margin: 15px auto 30px; color: #828282; }
+.sidebar-left .title { text-align: center; margin: 15px auto 30px; color: #FFFFFF; }
 .sidebar-left .title h1 { margin: 0 0 5px; font-size: 32px; }
 .sidebar-left .title h4 { font-size: 14.5px; }
 
-.sidebar-left .links a { display: block; text-align: center; margin: 10px 0; font-size: 20px; color: #828282; }
-.sidebar-left .links a:hover { color: #e8e8e8; }
+.sidebar-left .links a { display: block; text-align: center; margin: 10px 0; font-size: 20px; color: #FFFFFF; }
+.sidebar-left .links a:hover { color: #0093d0; }
 .sidebar-left .links .selected { color: #e8e8e8; }
 
 /** Making the sidebar responsive */
